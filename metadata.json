@@ -1,11 +1,11 @@
 {
-    "name": "ondmagi-vrtssfha",
+    "name": "andskli-vrtssfha",
     "version": "0.1.0",
     "author": "Andreas Lindh <andreas@superblock.se>",
     "summary": "VERITAS Storage Foundation & High Availability module",
     "license": "UNKNOWN",
-    "source": "https://github.com/ondmagi/puppet-vrtssfha",
-    "project_page": "https://github.com/ondmagi/puppet-vrtssfha",
+    "source": "https://github.com/andskli/puppet-vrtssfha",
+    "project_page": "https://github.com/andskli/puppet-vrtssfha",
     "operatingsystem_support": [
         {
             "operatingsystem": "RedHat"
